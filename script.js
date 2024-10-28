@@ -1,3 +1,4 @@
+
 let boxes = document.querySelectorAll(".box");
 
 let turn = "X";
